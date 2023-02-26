@@ -28,6 +28,6 @@ const styles = StyleSheet.create({
     color: Colors.yellowColor1,
     textAlign: "center",
     fontSize: 24,
-    fontWeight: "bold"
+    fontFamily: 'open-sans-bold'
   },
 });
